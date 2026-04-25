@@ -16,7 +16,7 @@
 
 # Demo :movie_camera:
 
-![](./developer-portfolio-main/public/image/screen.png)
+![](./developer-portfolio-main/public/portfolio_MehulKD.png)
 
 ## View live preview [here]().
 
