@@ -276,3 +276,20 @@ npm install -g next
 This installs Next.js globally
 
 then do the usual `npm run dev`
+
+---
+
+## 🤝 Contributing
+Contributions, suggestions, and improvements are always welcome.  
+Feel free to fork the repository and submit a pull request.
+
+---
+
+## 📜 License
+- This project is open-source and free to use for learning and personal projects.
+- Developer by MehulKD.
+
+---
+
+<p align="center">⭐ If you found this project helpful, consider giving it a star!
+</p>
