@@ -27,6 +27,6 @@ export const certifications = [
     id: 5,
     title: "The Complete Full-Stack Web Development Bootcamp",
     issuer: "Udemy",
-    image: "/certificates/java-simplilearn.jpg",
+    image: "/Certifications/udemy.png",
   },
 ]; 
