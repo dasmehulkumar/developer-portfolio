@@ -1,4 +1,4 @@
-<p align="center" width="100%">
+<!-- <p align="center" width="100%">
     <img height="100" src="./developer-portfolio-main/public/image/screen.png">
 </p>
 
@@ -291,4 +291,4 @@ This project is open-source and free to use for learning and personal projects.
 ---
 
 <p align="center">⭐ If you found this project helpful, consider giving it a star!
-</p>
+</p> -->
